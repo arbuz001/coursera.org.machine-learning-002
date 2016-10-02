@@ -1,0 +1,11 @@
+/// to get a copy of repositiry
+git clone https://github.com/arbuz001/coursera.org.machine-learning-002.git
+
+
+/// to add your new files
+// git status
+git add *
+// git status
+git commit -m "assignment 00X: adding work, data and codes"
+// git remote add origing https://github.com/arbuz001/coursera.org.machine-learning-002.git
+git push -u origin master
