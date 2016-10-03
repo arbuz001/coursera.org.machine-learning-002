@@ -6,6 +6,6 @@ strFileIn = 'c:/alexey_workspace/sauder/coursera.org/coursera.org.machine-learni
 for filename in os.listdir(strFileIn):
 	reader = open(strFileIn + filename,'r')
 	lines = reader.readlines()
-	print "::",filename,"-",len(lines),"lines"
+	print "::", filename,"-",len(lines),"lines"
 	
 	reader.close()
