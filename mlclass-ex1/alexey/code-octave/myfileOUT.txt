@@ -1,8 +1,0 @@
-# Created by Octave 3.2.4, Mon Mar 17 22:07:21 2014 Pacific Standard Time <unknown@unknown>
-# name: A
-# type: matrix
-# rows: 3
-# columns: 1
- 89597.90954279737
- 139.2106740176255
- -8738.019112327969
